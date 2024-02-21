@@ -3,7 +3,7 @@
 I'm a software developer who uses JS and Golang.
 
 ### My Stack
-React | Nextjs | Typescript | Node | Golang | Gin | Solidity
+React | Nextjs | Typescript | Golang | Gin | Solidity
 
 
 ### topics that interest me
