@@ -10,9 +10,7 @@ React | Nextjs | Typescript | Golang | Gin | Solidity
 Software Craftsmanship | Offensive Security | Golang Ecosystem | React Ecosystem
 
 ### I’m currently learning
-- Clean Architecture
-- How to Implement Zk proof protocole
-- Offensive Security
+- Improve mu skills in IT Infra and cloud
 
 ### I’m looking to collaborate on 
 - Blockchain | Golang | React  
